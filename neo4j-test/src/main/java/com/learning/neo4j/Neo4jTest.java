@@ -1,10 +1,6 @@
-package learning.neo4j.test;
+package com.learning.neo4j;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class Neo4jTest
 {
     public static void main( String[] args )
     {
